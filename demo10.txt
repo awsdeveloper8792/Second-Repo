@@ -1,0 +1,2 @@
+welcome to push command
+file created in local git
